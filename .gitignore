@@ -1,0 +1,9 @@
+# Ignores all the files with the following file extensions:
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+
+# Ignoring whole file and all its context:
+/Git_screenshot
